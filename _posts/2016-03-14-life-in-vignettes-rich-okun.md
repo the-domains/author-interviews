@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/26/life-in-vignettes-rich-okun/'
+hasPage: true
+inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - spiritual
   - maya
@@ -17,8 +16,8 @@ keywords:
   - express
   - cemetery
 description: 'THERE are many ways to physically express the creative thought process. Some use brushes and paint, while others use a pen or keyboard. Some, however, are talented enough to use multiple art forms to tell a story. One such person is Rich Okun. His anthropomorphic tale, The Sun, The Moon, The Stars and Maya, takes...'
-datePublished: '2016-03-14T11:43:39.355Z'
-dateModified: '2016-03-14T11:43:12.455Z'
+datePublished: '2016-03-14T12:03:04.879Z'
+dateModified: '2016-03-14T12:03:01.081Z'
 author:
   - name: ivymoonpress
     url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
@@ -30,10 +29,11 @@ sourcePath: _posts/2016-03-14-life-in-vignettes-rich-okun.md
 published: true
 authors: []
 publisher:
-  favicon: 'https://s2.wp.com/i/favicon.ico'
   name: Ivy Moon Press
   domain: ivymoonpress.wordpress.com
   url: 'http://ivymoonpress.wordpress.com'
+  favicon: 'https://s2.wp.com/i/favicon.ico'
+url: life-in-vignettes-rich-okun/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
