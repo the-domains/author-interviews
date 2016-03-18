@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.goodreads.com'
-  name: Goodreads
-  favicon: 'https://www.goodreads.com/favicon.ico'
-  domain: www.goodreads.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - maya
   - the-golden-rule
@@ -18,17 +16,21 @@ keywords:
   - compassion
   - stars
 description: 'A video about The Sun, the Moon, the Stars and Maya: A Collection of Little Sayings about Enormous Things. by Rich Okun - 46 views - 0 people liked it. a...'
-inLanguage: en
+datePublished: '2016-03-18T13:02:29.962Z'
+dateModified: '2016-03-18T13:02:03.215Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.goodreads.com/videos/52660-a-short-author-interview'
 title: a short author interview
-datePublished: '2016-03-14T10:37:23.363Z'
-dateModified: '2016-03-14T09:44:22.511Z'
 sourcePath: _posts/2016-03-14-a-short-author-interview.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Goodreads
+  domain: www.goodreads.com
+  url: 'https://www.goodreads.com'
+  favicon: 'https://www.goodreads.com/favicon.ico'
+url: a-short-author-interview/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
