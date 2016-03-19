@@ -16,8 +16,8 @@ keywords:
   - express
   - cemetery
 description: 'THERE are many ways to physically express the creative thought process. Some use brushes and paint, while others use a pen or keyboard. Some, however, are talented enough to use multiple art forms to tell a story. One such person is Rich Okun. His anthropomorphic tale, The Sun, The Moon, The Stars and Maya, takes...'
-datePublished: '2016-03-14T12:03:04.879Z'
-dateModified: '2016-03-14T12:03:01.081Z'
+datePublished: '2016-03-19T10:15:11.239Z'
+dateModified: '2016-03-19T10:15:09.546Z'
 author:
   - name: ivymoonpress
     url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
@@ -38,4 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+For many more - click the titles on top menu
+
 <article style=""><h1>Life in vignettes&amp;colon; Rich Okun</h1><p>THERE are many ways to physically express the creative thought process&amp;period; Some use brushes and paint&amp;comma; while others use a pen or keyboard&amp;period; Some&amp;comma; however&amp;comma; are talented enough to use multiple art forms to tell a story&amp;period; One such person is Rich Okun&amp;period; His anthropomorphic tale&amp;comma; The Sun&amp;comma; The Moon&amp;comma; The Stars and Maya&amp;comma; takes&amp;period;&amp;period;&amp;period;</p><img src="https://i1.wp.com/ivymoonpress.files.wordpress.com/2013/11/bio_photo.jpg?fit=440%2C330" /></article>
