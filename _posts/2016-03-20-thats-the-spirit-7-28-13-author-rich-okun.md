@@ -1,26 +1,29 @@
 ---
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
+starred: false
+keywords: []
+description: "Maya and my first TV Interview taped on July 22, 2013 aired on July 28, 2013 on That's the Spirit WCCT with Father John Gatzak"
+datePublished: '2016-03-20T17:46:21.864Z'
+dateModified: '2016-03-20T17:45:02.020Z'
 author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "Maya and my first TV Interview taped on July 22, 2013 aired on July 28, 2013 on That's the Spirit WCCT with Father John Gatzak"
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=yktDBhVaWHM'
 title: "That's The Spirit 7 28 13 Author Rich Okun"
-datePublished: '2016-03-20T17:44:59.011Z'
-dateModified: '2016-01-30T15:00:32.122Z'
 sourcePath: _posts/2016-03-20-thats-the-spirit-7-28-13-author-rich-okun.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+url: thats-the-spirit-7-28-13-author-rich-okun/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
