@@ -3,11 +3,13 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Regional TV Station WTNH Interview with Rich Okun and Maya about their book, The Sun, the Moon, the Stars and Maya on November 13, 2013 More information can be found at www.thesunthemoonthestarsandmaya.com'
-datePublished: '2016-03-20T17:46:11.539Z'
-dateModified: '2016-03-20T17:45:32.431Z'
+description: >-
+  Regional TV Station WTNH Interview with Rich Okun and Maya about their book,
+  The Sun, the Moon, the Stars and Maya on November 13, 2013 More information
+  can be found at www.thesunthemoonthestarsandmaya.com
+datePublished: '2016-08-19T20:58:37.359Z'
+dateModified: '2016-08-19T20:58:37.004Z'
 author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
@@ -22,7 +24,8 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
 sourcePath: _posts/2016-03-20-book-lovers-corner-the-sun-the-moon-the-stars-and-maya.md
-published: true
+via: {}
+starred: false
 url: book-lovers-corner-the-sun-the-moon-the-stars-and-maya/index.html
 _type: VideoObject
 _context: 'http://schema.org'
