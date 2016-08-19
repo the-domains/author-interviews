@@ -3,7 +3,6 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: en
-starred: false
 keywords:
   - spirituality
   - book
@@ -15,9 +14,14 @@ keywords:
   - life
   - child
   - cat
-description: "THE SUN, THE MOON, THE STARS AND MAYA BY RICH OKUN 1) Please provide a short excerpt of what your children's book is about. Our lives are bombarded with things that take us away from the special connections we are capable of. Each of us has the ability to demonstrate love, compassion, gratitude and generosity."
-datePublished: '2016-03-18T13:02:35.982Z'
-dateModified: '2016-03-18T13:02:33.625Z'
+description: >-
+  THE SUN, THE MOON, THE STARS AND MAYA BY RICH OKUN 1) Please provide a short
+  excerpt of what your children's book is about. Our lives are bombarded with
+  things that take us away from the special connections we are capable of. Each
+  of us has the ability to demonstrate love, compassion, gratitude and
+  generosity.
+datePublished: '2016-08-19T20:58:24.329Z'
+dateModified: '2016-08-19T20:58:24.014Z'
 author:
   - name: Pigeonhole Books
     url: 'http://pigeonholebooks.com/author/amychung781/'
@@ -26,13 +30,14 @@ related: []
 app_links: []
 title: 'Author Interview: Rich Okun'
 sourcePath: _posts/2016-03-14-author-interview-rich-okun.md
-published: true
 authors: []
 publisher:
   name: Pigeonhole Books
   domain: pigeonholebooks.com
   url: 'http://pigeonholebooks.com'
   favicon: 'http://0.gravatar.com/blavatar/49b13085247f919ff4c9d5790e84dd54?s=16'
+via: {}
+starred: false
 url: author-interview-rich-okun/index.html
 _context: 'http://schema.org'
 _type: MediaObject
