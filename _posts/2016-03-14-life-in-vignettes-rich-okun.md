@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T21:01:08.615Z'
+datePublished: '2016-08-19T21:03:34.900Z'
 sourcePath: _posts/2016-03-14-life-in-vignettes-rich-okun.md
 inFeed: true
 authors: []
@@ -23,7 +23,7 @@ author:
 via:
   name: Ivy MoonPRess
   url: 'https://ivymoonpress.wordpress.com/2013/11/'
-dateModified: '2016-08-19T21:01:08.221Z'
+dateModified: '2016-08-19T21:03:34.531Z'
 title: 'Life in vignettes: Rich Okun'
 app_links: []
 publisher:
