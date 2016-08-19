@@ -1,7 +1,18 @@
+layout_spectrum: 0.34786989144049585
+typography_spectrum: 0.14014753978699446
+color:
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  brandStrength: 0.7607454415410757
+  lightness: 0.2201887818519026
+  saturation: 0.13269567233510315
+  rhythmicContrast: 0.4690254721790552
 name: Author Interviews
 favicon: null
-layout_spectrum: 0.19907
-typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#9c5e2f'
-    - '#160b09'
-    - '#e7e7e7'
-    - '#cf968f'
-    - '#898480'
-  brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.25
 purpose: []
