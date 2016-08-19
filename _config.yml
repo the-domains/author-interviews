@@ -34,5 +34,8 @@ navigation:
   - name: 'Author Interview: Rich Okun'
     id: 466f169e-134b-4f3d-9e1e-50b8e203e9ed
     type: content
+  - name: 'Life in vignettes: Rich Okun'
+    id: 6114158f-cab6-46e1-b0a5-2c8d3d344bb6
+    type: content
 favicon: null
 purpose: []
