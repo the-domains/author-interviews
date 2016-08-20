@@ -29,11 +29,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/'
 title: Ivy Moon Press
-datePublished: '2016-08-20T12:23:52.344Z'
-dateModified: '2016-08-20T12:22:52.507Z'
+datePublished: '2016-08-20T12:24:24.444Z'
+dateModified: '2016-08-20T12:24:24.044Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-20-ivy-moon-press.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
