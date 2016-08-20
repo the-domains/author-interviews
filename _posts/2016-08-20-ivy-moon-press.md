@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T12:25:40.803Z'
+datePublished: '2016-08-20T14:46:03.427Z'
 sourcePath: _posts/2016-08-20-ivy-moon-press.md
 isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T12:25:40.341Z'
+dateModified: '2016-08-20T14:46:03.086Z'
 title: Ivy Moon Press
 app_links: []
 publisher:
