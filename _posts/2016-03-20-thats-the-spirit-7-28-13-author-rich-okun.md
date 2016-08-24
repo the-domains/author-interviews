@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-24T22:47:06.918Z'
+datePublished: '2016-08-24T23:25:31.822Z'
 sourcePath: _posts/2016-03-20-thats-the-spirit-7-28-13-author-rich-okun.md
-inFeed: false
+inFeed: true
 authors: []
 hasPage: true
 keywords: []
@@ -11,7 +11,7 @@ author:
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T22:47:06.644Z'
+dateModified: '2016-08-24T23:25:31.455Z'
 title: That's The Spirit 7 28 13 Author Rich Okun
 app_links: []
 publisher:
