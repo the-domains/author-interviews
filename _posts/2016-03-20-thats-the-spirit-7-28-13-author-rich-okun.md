@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Maya and my first TV Interview taped on July 22, 2013 aired on July 28, 2013
   on That's the Spirit WCCT with Father John Gatzak
-datePublished: '2016-08-19T20:58:41.914Z'
-dateModified: '2016-08-19T20:58:41.674Z'
+datePublished: '2016-08-24T22:44:49.113Z'
+dateModified: '2016-08-24T22:44:47.550Z'
 author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
