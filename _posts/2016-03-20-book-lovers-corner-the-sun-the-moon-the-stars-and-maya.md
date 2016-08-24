@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-24T22:46:48.431Z'
+datePublished: '2016-08-24T23:25:24.352Z'
 sourcePath: _posts/2016-03-20-book-lovers-corner-the-sun-the-moon-the-stars-and-maya.md
-inFeed: false
+inFeed: true
 authors: []
 hasPage: true
 keywords: []
@@ -11,7 +11,7 @@ author:
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T22:46:47.938Z'
+dateModified: '2016-08-24T23:25:23.896Z'
 title: 'Book Lovers Corner The Sun, the Moon, the Stars, and Maya'
 app_links: []
 publisher:
