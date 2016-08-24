@@ -38,8 +38,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3jT2Dd817eI'
 title: rich okun the sun the moon
-datePublished: '2016-08-24T23:22:39.189Z'
-dateModified: '2016-01-30T14:58:40.904Z'
+datePublished: '2016-08-24T23:23:07.964Z'
+dateModified: '2016-01-30T14:58:51.122Z'
 starred: false
 sourcePath: _posts/2016-08-24-rich-okun-the-sun-the-moon.md
 inFeed: true
