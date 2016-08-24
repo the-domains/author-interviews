@@ -25,11 +25,8 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: That's The Spirit 7 28 13 Author Rich Okun
-    id: 2c6804be-afce-461d-8233-3e68c20f6714
-    type: content
-  - name: Links
-    id: 73690951-a101-46b9-91c3-11ee92f0c5bb
+  - name: a short author interview
+    id: 68708f11-8173-4336-b39d-e6f9c50510b6
     type: content
 favicon: null
 purpose: []
