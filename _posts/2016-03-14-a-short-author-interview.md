@@ -18,8 +18,8 @@ description: >-
   A video about The Sun, the Moon, the Stars and Maya: A Collection of Little
   Sayings about Enormous Things. by Rich Okun - 46 views - 0 people liked it.
   a...
-datePublished: '2016-08-19T20:58:11.407Z'
-dateModified: '2016-08-19T20:58:11.139Z'
+datePublished: '2016-08-24T22:42:55.495Z'
+dateModified: '2016-08-24T22:42:55.217Z'
 author: []
 related: []
 app_links: []
