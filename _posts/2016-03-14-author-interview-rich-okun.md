@@ -1,7 +1,7 @@
 ---
-datePublished: '2016-08-24T22:46:39.080Z'
+datePublished: '2016-08-24T23:25:14.492Z'
 sourcePath: _posts/2016-03-14-author-interview-rich-okun.md
-inFeed: false
+inFeed: true
 authors: []
 hasPage: true
 keywords:
@@ -21,7 +21,7 @@ author:
     url: 'http://pigeonholebooks.com/author/amychung781/'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T22:46:38.774Z'
+dateModified: '2016-08-24T23:25:14.096Z'
 title: 'Author Interview: Rich Okun'
 app_links: []
 publisher:
