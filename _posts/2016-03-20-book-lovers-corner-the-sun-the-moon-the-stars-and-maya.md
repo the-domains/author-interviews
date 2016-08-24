@@ -8,8 +8,8 @@ description: >-
   Regional TV Station WTNH Interview with Rich Okun and Maya about their book,
   The Sun, the Moon, the Stars and Maya on November 13, 2013 More information
   can be found at www.thesunthemoonthestarsandmaya.com
-datePublished: '2016-08-19T20:58:37.359Z'
-dateModified: '2016-08-19T20:58:37.004Z'
+datePublished: '2016-08-24T22:44:40.826Z'
+dateModified: '2016-08-24T22:44:40.453Z'
 author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
