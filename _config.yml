@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: a short author interview
-    id: 68708f11-8173-4336-b39d-e6f9c50510b6
-    type: content
   - name: Rich Okun
     id: c674d3b7-3159-4bcf-9b86-957ccc2b60c6
     type: content
