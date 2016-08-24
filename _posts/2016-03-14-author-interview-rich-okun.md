@@ -20,8 +20,8 @@ description: >-
   things that take us away from the special connections we are capable of. Each
   of us has the ability to demonstrate love, compassion, gratitude and
   generosity.
-datePublished: '2016-08-19T20:58:24.329Z'
-dateModified: '2016-08-19T20:58:24.014Z'
+datePublished: '2016-08-24T22:44:26.312Z'
+dateModified: '2016-08-24T22:44:25.854Z'
 author:
   - name: Pigeonhole Books
     url: 'http://pigeonholebooks.com/author/amychung781/'
