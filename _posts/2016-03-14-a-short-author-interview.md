@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:14:56.387Z'
+datePublished: '2016-08-24T23:17:49.543Z'
 sourcePath: _posts/2016-03-14-a-short-author-interview.md
 inFeed: false
 authors: []
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-24T23:14:56.093Z'
+dateModified: '2016-08-24T23:17:49.089Z'
 title: a short author interview
 app_links: []
 publisher:
@@ -26,10 +26,7 @@ publisher:
   domain: www.goodreads.com
   url: 'https://www.youtube.com/watch?v=3jT2Dd817eI'
   favicon: 'https://www.goodreads.com/favicon.ico'
-description: >-
-  A video about The Sun, the Moon, the Stars and Maya: A Collection of Little
-  Sayings about Enormous Things. by Rich Okun - 46 views - 0 people liked it.
-  a...
+description: ''
 inLanguage: en
 inNav: true
 starred: false
@@ -38,4 +35,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>a short author interview</h1><p>A video about The Sun, the Moon, the Stars and Maya: A Collection of Little Sayings about Enormous Things. by Rich Okun - 46 views - 0 people liked it. a...</p></article>
+a short author interview
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a94fb020-bc2a-40fc-b39f-2440710cfd1d.jpg)
+
+https://www.youtube.com/watch?v=3jT2Dd817eI
