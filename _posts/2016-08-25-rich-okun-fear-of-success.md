@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:06:36.514Z'
+datePublished: '2016-08-25T14:37:13.854Z'
 hasPage: true
 keywords:
   - tedx
@@ -17,7 +17,7 @@ author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
-dateModified: '2016-08-25T14:06:26.996Z'
+dateModified: '2016-08-25T14:37:13.467Z'
 title: rich okun fear of success
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=k-jI9hSG8lo&feature=applinks'
@@ -38,8 +38,8 @@ publisher:
 description: Uploaded by Richard Okun on 2013-10-03.
 inLanguage: en
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-rich-okun-fear-of-success.md
+starred: false
 url: rich-okun-fear-of-success/index.html
 _context: 'http://schema.org'
 _type: VideoObject
