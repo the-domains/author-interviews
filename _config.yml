@@ -1,4 +1,3 @@
-layout_spectrum: 0.4428756854031235
 typography_spectrum: 0.19396896404214203
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4428756854031235
 analytics:
   google: null
   facebook: null
@@ -46,5 +46,8 @@ navigation:
   - name: Ivy Moon Press
     url: 'https://ivymoonpress.wordpress.com/2013/11/'
     type: external
+  - name: rich okun benifits of being in the moment
+    id: fc89243d-52d2-4f0f-9929-c4f1496c4f10
+    type: content
 favicon: null
 purpose: []
