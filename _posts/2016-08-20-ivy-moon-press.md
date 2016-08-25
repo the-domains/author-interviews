@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T23:10:43.686Z'
+datePublished: '2016-08-25T10:59:27.411Z'
 sourcePath: _posts/2016-08-20-ivy-moon-press.md
 inFeed: true
 isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/'
@@ -20,13 +20,13 @@ author:
     url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
     avatar: {}
 via: {}
-dateModified: '2016-08-24T23:10:43.275Z'
+dateModified: '2016-08-25T10:59:27.035Z'
 title: ''
 app_links: []
 publisher: {}
 description: Click on menu for interviews
 inLanguage: en
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
