@@ -52,5 +52,8 @@ navigation:
   - name: rich okun fear of success
     id: 060e328b-ccea-4966-a465-f3f37db1a8ba
     type: content
+  - name: rich okun gratitude
+    id: 8f0d0223-ada4-44b9-bad4-2573e07a6214
+    type: content
 favicon: null
 purpose: []
