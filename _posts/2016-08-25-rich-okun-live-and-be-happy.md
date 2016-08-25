@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:07:00.932Z'
+datePublished: '2016-08-25T14:37:27.601Z'
 hasPage: true
 keywords:
   - tedx
@@ -17,7 +17,7 @@ author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
-dateModified: '2016-08-25T14:06:54.565Z'
+dateModified: '2016-08-25T14:37:27.287Z'
 title: rich okun live and be happy
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KxmXMQwn7Z8&feature=applinks'
@@ -38,8 +38,8 @@ publisher:
 description: Uploaded by Richard Okun on 2013-10-03.
 inLanguage: en
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-rich-okun-live-and-be-happy.md
+starred: false
 url: rich-okun-live-and-be-happy/index.html
 _context: 'http://schema.org'
 _type: VideoObject
