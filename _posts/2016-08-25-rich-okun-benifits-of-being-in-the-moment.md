@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:06:21.044Z'
+datePublished: '2016-08-25T14:37:00.074Z'
 hasPage: true
 keywords:
   - duration
@@ -17,7 +17,7 @@ author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
-dateModified: '2016-08-25T14:06:06.770Z'
+dateModified: '2016-08-25T14:36:59.522Z'
 title: rich okun benifits of being in the moment
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=S1R-GtZFShQ&feature=applinks'
@@ -38,8 +38,8 @@ publisher:
 description: Uploaded by Richard Okun on 2013-10-03.
 inLanguage: en
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-rich-okun-benifits-of-being-in-the-moment.md
+starred: false
 url: rich-okun-benifits-of-being-in-the-moment/index.html
 _context: 'http://schema.org'
 _type: VideoObject
