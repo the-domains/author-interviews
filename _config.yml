@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: 'Author Interview: Rich Okun'
-    id: 466f169e-134b-4f3d-9e1e-50b8e203e9ed
-    type: content
   - name: 'Book Lovers Corner The Sun, the Moon, the Stars, and Maya'
     id: e156f04d-834c-4906-9f31-bd1137a1b1ea
     type: content
