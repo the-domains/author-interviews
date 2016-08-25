@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T14:06:50.287Z'
+datePublished: '2016-08-25T14:37:22.508Z'
 hasPage: true
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
-dateModified: '2016-08-25T14:06:40.943Z'
+dateModified: '2016-08-25T14:37:21.911Z'
 title: rich okun gratitude
 app_links: []
 publisher:
@@ -17,8 +17,8 @@ publisher:
   domain: www.youtube.com
 description: Uploaded by Richard Okun on 2013-10-03.
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-rich-okun-gratitude.md
+starred: false
 url: rich-okun-gratitude/index.html
 _context: 'http://schema.org'
 _type: VideoObject
