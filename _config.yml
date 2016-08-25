@@ -49,5 +49,8 @@ navigation:
   - name: rich okun benifits of being in the moment
     id: fc89243d-52d2-4f0f-9929-c4f1496c4f10
     type: content
+  - name: rich okun fear of success
+    id: 060e328b-ccea-4966-a465-f3f37db1a8ba
+    type: content
 favicon: null
 purpose: []
