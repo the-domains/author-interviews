@@ -28,9 +28,6 @@ navigation:
   - name: Links - Press Releases
     id: 73690951-a101-46b9-91c3-11ee92f0c5bb
     type: content
-  - name: Ivy Moon Press
-    url: 'https://ivymoonpress.wordpress.com/2013/11/'
-    type: external
   - name: rich okun benifits of being in the moment
     id: fc89243d-52d2-4f0f-9929-c4f1496c4f10
     type: content
