@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T10:16:40.648Z'
+datePublished: '2016-08-27T10:19:53.320Z'
 sourcePath: _posts/2016-08-24-ivy-moon-press.md
 inFeed: true
 hasPage: true
@@ -19,9 +19,8 @@ author:
   - name: ivymoonpress
     url: 'https://ivymoonpress.wordpress.com/2013/11/'
     avatar: {}
-via:
-  url: 'https://ivymoonpress.wordpress.com/2013/11/'
-dateModified: '2016-08-27T10:16:40.233Z'
+via: {}
+dateModified: '2016-08-27T10:19:52.788Z'
 title: Ivy Moon Press
 app_links: []
 publisher:
