@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T10:19:53.320Z'
+datePublished: '2016-08-27T11:30:59.983Z'
 sourcePath: _posts/2016-08-24-ivy-moon-press.md
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ author:
     url: 'https://ivymoonpress.wordpress.com/2013/11/'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T10:19:52.788Z'
+dateModified: '2016-08-27T11:30:45.250Z'
 title: Ivy Moon Press
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
   name: Wordpress
   favicon: 'https://s2.wp.com/i/favicon.ico'
   domain: ivymoonpress.wordpress.com
-description: Click for interview
+description: 'Click for interview '
 inLanguage: en
 starred: false
 url: ivy-moon-press/index.html
