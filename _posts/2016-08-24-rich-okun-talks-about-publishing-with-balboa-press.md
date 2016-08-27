@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T23:35:40.680Z'
+datePublished: '2016-08-27T10:09:43.184Z'
 sourcePath: _posts/2016-08-24-rich-okun-talks-about-publishing-with-balboa-press.md
 inFeed: true
 hasPage: true
@@ -10,7 +10,7 @@ author:
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
 via: {}
-dateModified: '2016-08-26T23:32:34.740Z'
+dateModified: '2016-08-27T10:09:42.588Z'
 title: Rich Okun Talks about Publishing with Balboa Press
 app_links: []
 publisher:
