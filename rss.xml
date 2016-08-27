@@ -4,7 +4,7 @@
         <description><![CDATA[Author Interviews]]></description>
         <link>https://thegrid.ai/author-interviews/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 10:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 10:16:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/author-interviews/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ivy Moon Press]]></title>
@@ -12,6 +12,13 @@
             <link>https://ivymoonpress.wordpress.com/2013/11/</link>
             <guid isPermaLink="false">dc04adbb-7a56-44b2-9e09-986690b51d88</guid>
             <pubDate>Thu, 25 Aug 2016 14:50:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ivy Moon Press]]></title>
+            <description><![CDATA[<article><h1>Ivy Moon Press</h1><p>Click for interview</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aacdb8b18e4624ad17b6ca647de6b248ec810c5"></article>]]></description>
+            <link>https://thegrid.ai/author-interviews/ivy-moon-press/index.html</link>
+            <guid isPermaLink="false">b2f4585b-03f4-4dc5-a88f-7a81ab65fce6</guid>
+            <pubDate>Sat, 27 Aug 2016 10:16:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rich Okun Talks about Publishing with Balboa Press]]></title>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/author-interviews/author-interview-rich-okun/index.html</link>
             <guid isPermaLink="false">466f169e-134b-4f3d-9e1e-50b8e203e9ed</guid>
             <pubDate>Fri, 26 Aug 2016 23:30:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ivy Moon Press]]></title>
-            <description><![CDATA[<article><h1>Ivy Moon Press</h1><p>Click for interview</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aacdb8b18e4624ad17b6ca647de6b248ec810c5"></article>]]></description>
-            <link>https://thegrid.ai/author-interviews/ivy-moon-press/index.html</link>
-            <guid isPermaLink="false">b2f4585b-03f4-4dc5-a88f-7a81ab65fce6</guid>
-            <pubDate>Fri, 26 Aug 2016 22:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
