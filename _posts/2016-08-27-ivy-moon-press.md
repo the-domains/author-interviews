@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-27T11:50:19.835Z'
+datePublished: '2016-08-27T13:18:56.387Z'
+sourcePath: _posts/2016-08-27-ivy-moon-press.md
 isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/'
 keywords:
   - spiritual
@@ -17,8 +18,10 @@ author:
   - name: ivymoonpress
     url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
     avatar: {}
-via: {}
-dateModified: '2016-08-27T11:44:27.403Z'
+via:
+  url: >-
+    https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aacdb8b18e4624ad17b6ca647de6b248ec810c5
+dateModified: '2016-08-27T13:18:49.647Z'
 title: Ivy Moon Press
 app_links: []
 publisher:
@@ -33,7 +36,6 @@ description: >-
   Rich Okun.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-27-ivy-moon-press.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -41,4 +43,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9b47598e87aabb72d4e97592d3ca39fc/noop?input=https%3A%2F%2Fivymoonpress.files.wordpress.com%2F2013%2F11%2Fbio_photo.jpg%26h%3D305" /><h1>Ivy Moon Press</h1><p>THERE are many ways to physically express the creative thought process. Some use brushes and paint, while others use a pen or keyboard. Some, however, are talented enough to use multiple art forms to tell a story. One such person is Rich Okun.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aacdb8b18e4624ad17b6ca647de6b248ec810c5" /><h1>Ivy Moon Press</h1><p>THERE are many ways to physically express the creative thought process. Some use brushes and paint, while others use a pen or keyboard. Some, however, are talented enough to use multiple art forms to tell a story. One such person is Rich Okun.</p></article>
