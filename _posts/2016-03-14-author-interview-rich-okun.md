@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T09:26:37.149Z'
+datePublished: '2016-08-26T23:30:58.438Z'
 sourcePath: _posts/2016-03-14-author-interview-rich-okun.md
 inFeed: true
 authors: []
@@ -18,16 +18,16 @@ keywords:
 related: []
 author:
   - name: Pigeonhole Books
-    url: 'http://pigeonholebooks.com/author/amychung781/'
+    url: 'http://pigeonholebooks.com/2015/08/04/author-interview-rich-okun/'
     avatar: {}
 via: {}
-dateModified: '2016-08-25T09:26:36.834Z'
+dateModified: '2016-08-26T23:30:57.917Z'
 title: 'Author Interview: Rich Okun'
 app_links: []
 publisher:
   name: Pigeonhole Books
   domain: pigeonholebooks.com
-  url: 'http://pigeonholebooks.com'
+  url: 'http://pigeonholebooks.com/2015/08/04/author-interview-rich-okun/'
   favicon: 'http://0.gravatar.com/blavatar/49b13085247f919ff4c9d5790e84dd54?s=16'
 description: >-
   THE SUN, THE MOON, THE STARS AND MAYA BY RICH OKUN 1) Please provide a short
