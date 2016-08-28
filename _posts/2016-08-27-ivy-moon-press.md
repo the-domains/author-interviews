@@ -15,8 +15,8 @@ keywords:
   - express
   - cemetery
 description: ''
-datePublished: '2016-08-27T15:22:16.600Z'
-dateModified: '2016-08-27T15:21:58.475Z'
+datePublished: '2016-08-27T15:27:33.001Z'
+dateModified: '2016-08-27T15:25:48.850Z'
 sourcePath: _posts/2016-08-27-ivy-moon-press.md
 related: []
 author:
@@ -37,6 +37,11 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
+[_https://ivymoonpress.wordpress.com/2013/11/_][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51508bcd-e90a-4c72-896b-13aac85675f3.jpg)
 
 <article style=""><h1>Ivy Moon Press</h1><p>THERE are many ways to physically express the creative thought process. Some use brushes and paint, while others use a pen or keyboard. Some, however, are talented enough to use multiple art forms to tell a story. One such person is Rich Okun.</p></article>
+
+
+
+[0]: https://ivymoonpress.wordpress.com/2013/11/
