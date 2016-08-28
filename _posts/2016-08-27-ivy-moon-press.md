@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T13:49:56.680Z'
+datePublished: '2016-08-27T14:45:13.381Z'
 sourcePath: _posts/2016-08-27-ivy-moon-press.md
 inFeed: true
 hasPage: true
@@ -20,8 +20,8 @@ author:
     url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T13:49:56.057Z'
-title: ''
+dateModified: '2016-08-27T14:45:12.598Z'
+title: Maya and Me
 app_links: []
 publisher: {}
 description: ''
