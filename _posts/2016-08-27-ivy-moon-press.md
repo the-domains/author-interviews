@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-27T15:52:13.426Z'
+datePublished: '2016-08-27T15:54:11.061Z'
+sourcePath: _posts/2016-08-27-ivy-moon-press.md
 isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/'
 keywords:
   - spiritual
@@ -18,7 +19,7 @@ author:
     url: 'https://ivymoonpress.wordpress.com/2013/11/'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T15:43:48.064Z'
+dateModified: '2016-08-27T15:54:10.635Z'
 title: Ivy Moon Press
 app_links: []
 publisher:
@@ -32,7 +33,6 @@ description: >-
   talented enough to use multiple art forms to tell a story. One such person is
   Rich Okun.
 inLanguage: en
-sourcePath: _posts/2016-08-27-ivy-moon-press.md
 starred: false
 inFeed: true
 hasPage: false
@@ -41,4 +41,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aacdb8b18e4624ad17b6ca647de6b248ec810c5" /><h1>Ivy Moon Press</h1><p>THERE are many ways to physically express the creative thought process. Some use brushes and paint, while others use a pen or keyboard. Some, however, are talented enough to use multiple art forms to tell a story. One such person is Rich Okun.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8924d264-ba3a-4294-875d-697879f3089c.jpg)
