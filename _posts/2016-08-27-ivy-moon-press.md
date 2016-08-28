@@ -15,22 +15,21 @@ keywords:
   - express
   - cemetery
 description: ''
-datePublished: '2016-08-27T14:58:47.396Z'
-dateModified: '2016-08-27T14:58:36.899Z'
+datePublished: '2016-08-27T15:22:16.600Z'
+dateModified: '2016-08-27T15:21:58.475Z'
 sourcePath: _posts/2016-08-27-ivy-moon-press.md
 related: []
 author:
-  - name: ivymoonpress
-    url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
-    avatar: {}
+  - name: ''
+    url: ''
 via: {}
 title: Ivy Moon Press Interview
 app_links: []
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: ivy-moon-press/index.html
