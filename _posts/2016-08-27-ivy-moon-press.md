@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-27T14:54:36.029Z'
-sourcePath: _posts/2016-08-27-ivy-moon-press.md
 inFeed: true
 hasPage: true
+inNav: false
+inLanguage: en
 keywords:
   - spiritual
   - maya
@@ -14,18 +14,24 @@ keywords:
   - book
   - express
   - cemetery
+description: ''
+datePublished: '2016-08-27T14:58:18.492Z'
+dateModified: '2016-08-27T14:57:28.272Z'
+sourcePath: _posts/2016-08-27-ivy-moon-press.md
 related: []
 author:
   - name: ivymoonpress
     url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
     avatar: {}
 via: {}
-dateModified: '2016-08-27T14:54:35.580Z'
 title: Ivy Moon Press Interview
 app_links: []
-publisher: {}
-description: ''
-inLanguage: en
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: ivy-moon-press/index.html
 _context: 'http://schema.org'
