@@ -15,8 +15,8 @@ keywords:
   - express
   - cemetery
 description: ''
-datePublished: '2016-08-27T14:58:18.492Z'
-dateModified: '2016-08-27T14:57:28.272Z'
+datePublished: '2016-08-27T14:58:47.396Z'
+dateModified: '2016-08-27T14:58:36.899Z'
 sourcePath: _posts/2016-08-27-ivy-moon-press.md
 related: []
 author:
