@@ -8,23 +8,23 @@ keywords: []
 description: >-
   Short video about the self publishing experience and the success of being
   picked up by a traditional publisher.
-datePublished: '2016-08-27T17:25:00.327Z'
-dateModified: '2016-08-27T17:24:54.437Z'
+datePublished: '2016-08-27T17:26:51.576Z'
+dateModified: '2016-08-27T17:25:08.080Z'
 id: 72b34880-602c-49fb-96ae-2ced8e703a3b
 title: Rich Okun Talks about Publishing with Balboa Press
 author:
   - name: Richard Okun
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
+via: {}
+sourcePath: _posts/2016-08-24-rich-okun-talks-about-publishing-with-balboa-press.md
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-via: {}
 starred: false
-sourcePath: _posts/2016-08-24-rich-okun-talks-about-publishing-with-balboa-press.md
 _type: MediaObject
 
 ---
