@@ -1,36 +1,31 @@
 ---
-datePublished: '2016-08-25T14:50:31.499Z'
-sourcePath: _posts/2016-08-20-ivy-moon-press.md
 inFeed: true
-isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/'
-keywords:
-  - spiritual
-  - maya
-  - poem
-  - paths
-  - mother
-  - life
-  - illustration
-  - book
-  - express
-  - cemetery
-related: []
-author:
-  - name: ivymoonpress
-    url: 'https://ivymoonpress.wordpress.com/author/ivymoonpress/'
-    avatar: {}
-via: {}
-dateModified: '2016-08-25T14:50:31.137Z'
+hasPage: false
+inNav: false
+isBasedOnUrl: >-
+  https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1146d21bfac0c7d63cc9c987dbaeb85a/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F036e7e1e-5474-4965-8fb9-ba8a2381b1b8.jpg&width=471
+inLanguage: null
+keywords: []
+description: See Below for Book Trailers - Click on menu for other videos
+datePublished: '2016-08-27T17:30:17.759Z'
+dateModified: '2016-08-27T17:30:12.408Z'
+id: dc04adbb-7a56-44b2-9e09-986690b51d88
 title: ''
-app_links: []
-publisher: {}
-description: See Below for Book Trailers Click on menu for other videos
-inLanguage: en
+author:
+  - name: ''
+    url: ''
+via: {}
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: true
-_context: 'http://schema.org'
+sourcePath: _posts/2016-08-20-ivy-moon-press.md
 _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/036e7e1e-5474-4965-8fb9-ba8a2381b1b8.jpg)
 
-See Below for Book Trailers Click on menu for other videos
+See Below for Book Trailers - Click on menu for other videos
