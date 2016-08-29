@@ -1,17 +1,13 @@
 ---
-datePublished: '2016-08-27T21:08:25.619Z'
+datePublished: '2016-08-28T10:36:03.232Z'
 inFeed: true
-authors: []
-hasPage: false
-keywords: []
 author: []
 via: {}
-dateModified: '2016-08-27T21:08:16.708Z'
+dateModified: '2016-08-28T10:36:02.875Z'
 title: ''
+id: cb0ff81e-51f1-4d38-97d5-ea204f42f772
 publisher: {}
 description: See Below for Book Trailers - Click on menu for other videos
-inLanguage: null
-inNav: false
 starred: false
 sourcePath: >-
   _posts/2016-08-27-see-below-for-book-trailers-click-on-menu-for-other-videos.md
