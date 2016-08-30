@@ -46,5 +46,8 @@ navigation:
   - name: Rich Okun Talks about Publishing with Balboa Press
     id: 72b34880-602c-49fb-96ae-2ced8e703a3b
     type: content
+  - name: 'Book Lovers Corner The Sun, the Moon, the Stars, and Maya'
+    id: e156f04d-834c-4906-9f31-bd1137a1b1ea
+    type: content
 favicon: null
 purpose: []
