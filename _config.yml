@@ -1,4 +1,3 @@
-layout_spectrum: 0.6415376584045589
 typography_spectrum: 0.9277220778167248
 color:
   brandColors:
@@ -11,10 +10,22 @@ color:
   lightness: 0.7971692853607237
   saturation: 0.9167037911247462
   rhythmicContrast: 0.36124134506098926
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6415376584045589
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: Author Interviews
-favicon: null
+cta:
+  domain: null
+  bucket: null
+  version: null
 navigation:
-  - name: rich okun gratitude
+  - name: ' gratitude'
     id: 8f0d0223-ada4-44b9-bad4-2573e07a6214
     type: content
   - name: rich okun fear of success
@@ -32,16 +43,5 @@ navigation:
   - name: Links - Press Releases
     id: 73690951-a101-46b9-91c3-11ee92f0c5bb
     type: content
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
 purpose: []
