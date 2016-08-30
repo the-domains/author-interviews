@@ -1,43 +1,27 @@
 ---
-datePublished: '2016-08-27T15:54:11.061Z'
-sourcePath: _posts/2016-08-27-ivy-moon-press.md
-isBasedOnUrl: 'https://ivymoonpress.wordpress.com/2013/11/'
-keywords:
-  - spiritual
-  - maya
-  - poem
-  - paths
-  - mother
-  - life
-  - illustration
-  - book
-  - express
-  - cemetery
-related: []
+id: d6b1ec3a-2c6b-43fc-a783-cac37f0a0702
+dateModified: '2016-08-28T14:43:04.751Z'
+title: Ivy Moon Press
+datePublished: '2016-08-28T14:43:05.036Z'
 author:
   - name: ivymoonpress
     url: 'https://ivymoonpress.wordpress.com/2013/11/'
     avatar: {}
-via: {}
-dateModified: '2016-08-27T15:54:10.635Z'
-title: Ivy Moon Press
-app_links: []
-publisher:
-  url: 'https://ivymoonpress.wordpress.com/2013/11/'
-  name: Wordpress
-  favicon: 'https://s2.wp.com/i/favicon.ico'
-  domain: ivymoonpress.wordpress.com
+hasPage: true
 description: >-
   THERE are many ways to physically express the creative thought process. Some
   use brushes and paint, while others use a pen or keyboard. Some, however, are
   talented enough to use multiple art forms to tell a story. One such person is
   Rich Okun.
-inLanguage: en
+publisher:
+  url: 'https://ivymoonpress.wordpress.com/2013/11/'
+  name: Wordpress
+  favicon: 'https://s2.wp.com/i/favicon.ico'
+  domain: ivymoonpress.wordpress.com
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_context: 'http://schema.org'
+sourcePath: _posts/2016-08-27-ivy-moon-press.md
+url: ivy-moon-press/index.html
 _type: MediaObject
 
 ---
