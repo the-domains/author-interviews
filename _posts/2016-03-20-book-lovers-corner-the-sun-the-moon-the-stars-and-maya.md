@@ -8,8 +8,8 @@ description: >-
   Regional TV Station WTNH Interview with Rich Okun and Maya about their book,
   The Sun, the Moon, the Stars and Maya on November 13, 2013 More information
   can be found at www.thesunthemoonthestarsandmaya.com
-datePublished: '2016-08-27T17:26:56.896Z'
-dateModified: '2016-08-27T17:25:42.760Z'
+datePublished: '2016-08-28T14:42:24.522Z'
+dateModified: '2016-08-28T14:42:24.110Z'
 id: e156f04d-834c-4906-9f31-bd1137a1b1ea
 title: 'Book Lovers Corner The Sun, the Moon, the Stars, and Maya'
 author:
@@ -23,8 +23,8 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
 via: {}
-starred: false
 sourcePath: _posts/2016-03-20-book-lovers-corner-the-sun-the-moon-the-stars-and-maya.md
+starred: false
 url: book-lovers-corner-the-sun-the-moon-the-stars-and-maya/index.html
 _type: Article
 
