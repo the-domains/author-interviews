@@ -1,7 +1,18 @@
+layout_spectrum: 0.6415376584045589
+typography_spectrum: 0.9277220778167248
+color:
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+  brandStrength: 0.12090660282410681
+  lightness: 0.7971692853607237
+  saturation: 0.9167037911247462
+  rhythmicContrast: 0.36124134506098926
 name: Author Interviews
 favicon: null
-layout_spectrum: 0.29603
-typography_spectrum: 0.2314845835790038
 navigation:
   - name: rich okun gratitude
     id: 8f0d0223-ada4-44b9-bad4-2573e07a6214
@@ -33,15 +44,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  brandStrength: 0.12090660282410681
-  lightness: 0.7971692853607237
-  saturation: 0.9167037911247462
-  rhythmicContrast: 0.36124134506098926
 purpose: []
