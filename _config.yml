@@ -58,5 +58,8 @@ navigation:
   - name: 'Author Interview: Rich Okun'
     id: 466f169e-134b-4f3d-9e1e-50b8e203e9ed
     type: content
+  - name: Ivy Moon Press
+    id: d6b1ec3a-2c6b-43fc-a783-cac37f0a0702
+    type: content
 favicon: null
 purpose: []
