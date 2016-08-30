@@ -55,5 +55,8 @@ navigation:
   - name: rich okun the sun the moon
     id: 733ce051-7271-4b61-8468-9fca2bd50a69
     type: content
+  - name: 'Author Interview: Rich Okun'
+    id: 466f169e-134b-4f3d-9e1e-50b8e203e9ed
+    type: content
 favicon: null
 purpose: []
