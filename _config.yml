@@ -49,6 +49,9 @@ navigation:
   - name: 'Author Interview: Rich Okun'
     id: 466f169e-134b-4f3d-9e1e-50b8e203e9ed
     type: content
+  - name: Ivy Moon Press
+    id: d6b1ec3a-2c6b-43fc-a783-cac37f0a0702
+    type: content
   - name: live and be happy
     id: a10177fa-68fa-4ddd-9834-90f9c866c107
     type: content
@@ -57,9 +60,6 @@ navigation:
     type: content
   - name: Links - Press Releases
     id: 73690951-a101-46b9-91c3-11ee92f0c5bb
-    type: content
-  - name: Ivy Moon Press
-    id: d6b1ec3a-2c6b-43fc-a783-cac37f0a0702
     type: content
 favicon: null
 purpose: []
