@@ -28,9 +28,6 @@ navigation:
   - name: ' gratitude'
     id: 8f0d0223-ada4-44b9-bad4-2573e07a6214
     type: content
-  - name: fear of success
-    id: 060e328b-ccea-4966-a465-f3f37db1a8ba
-    type: content
   - name: Interview about Publishing with Balboa Press
     id: 72b34880-602c-49fb-96ae-2ced8e703a3b
     type: content
@@ -48,6 +45,9 @@ navigation:
     type: content
   - name: Ivy Moon Press
     id: d6b1ec3a-2c6b-43fc-a783-cac37f0a0702
+    type: content
+  - name: fear of success
+    id: 060e328b-ccea-4966-a465-f3f37db1a8ba
     type: content
   - name: benifits of being in the moment
     id: fc89243d-52d2-4f0f-9929-c4f1496c4f10
