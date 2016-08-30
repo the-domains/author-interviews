@@ -34,6 +34,9 @@ navigation:
   - name: benifits of being in the moment
     id: fc89243d-52d2-4f0f-9929-c4f1496c4f10
     type: content
+  - name: Interview about Publishing with Balboa Press
+    id: 72b34880-602c-49fb-96ae-2ced8e703a3b
+    type: content
   - name: live and be happy
     id: a10177fa-68fa-4ddd-9834-90f9c866c107
     type: content
@@ -42,9 +45,6 @@ navigation:
     type: content
   - name: Links - Press Releases
     id: 73690951-a101-46b9-91c3-11ee92f0c5bb
-    type: content
-  - name: Interview about Publishing with Balboa Press
-    id: 72b34880-602c-49fb-96ae-2ced8e703a3b
     type: content
   - name: Interview WTNH TV
     id: e156f04d-834c-4906-9f31-bd1137a1b1ea
