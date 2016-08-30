@@ -49,5 +49,8 @@ navigation:
   - name: 'Book Lovers Corner The Sun, the Moon, the Stars, and Maya'
     id: e156f04d-834c-4906-9f31-bd1137a1b1ea
     type: content
+  - name: That's The Spirit 7 28 13 Author Rich Okun
+    id: 2c6804be-afce-461d-8233-3e68c20f6714
+    type: content
 favicon: null
 purpose: []
