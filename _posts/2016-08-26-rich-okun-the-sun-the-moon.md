@@ -8,8 +8,8 @@ description: >-
   Author/Illustrator Rich Okun talks about newly published book The Sun, the
   Moon, the Stars and Maya.com For more information please go to.
   www.thesunthemoonthestarsandmaya.com
-datePublished: '2016-08-27T17:27:04.197Z'
-dateModified: '2016-08-27T17:26:20.273Z'
+datePublished: '2016-08-28T14:42:43.170Z'
+dateModified: '2016-08-28T14:42:42.625Z'
 id: 733ce051-7271-4b61-8468-9fca2bd50a69
 title: rich okun the sun the moon
 author:
@@ -23,8 +23,8 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-26-rich-okun-the-sun-the-moon.md
+starred: false
 url: rich-okun-the-sun-the-moon/index.html
 _type: Article
 
