@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-08-28T10:36:03.232Z'
+datePublished: '2016-08-28T14:54:42.053Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-28T10:36:02.875Z'
+dateModified: '2016-08-28T14:54:41.739Z'
 title: ''
 id: cb0ff81e-51f1-4d38-97d5-ea204f42f772
 publisher: {}
 description: See Below for Book Trailers - Click on menu for other videos
-starred: false
 sourcePath: >-
   _posts/2016-08-27-see-below-for-book-trailers-click-on-menu-for-other-videos.md
+starred: true
 _type: Blurb
 
 ---
