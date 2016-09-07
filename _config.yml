@@ -46,6 +46,9 @@ navigation:
   - name: ' gratitude'
     id: 8f0d0223-ada4-44b9-bad4-2573e07a6214
     type: content
+  - name: Book Trailer videos
+    id: 72c9ab5a-5f19-41fa-8a15-40263a8da2b1
+    type: content
   - name: fear of success
     id: 060e328b-ccea-4966-a465-f3f37db1a8ba
     type: content
@@ -60,9 +63,6 @@ navigation:
     type: content
   - name: Links - Press Releases
     id: 73690951-a101-46b9-91c3-11ee92f0c5bb
-    type: content
-  - name: Book Trailer videos
-    id: 72c9ab5a-5f19-41fa-8a15-40263a8da2b1
     type: content
 favicon: null
 title: Interviews and Book Trailers
