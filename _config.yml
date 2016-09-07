@@ -34,6 +34,9 @@ navigation:
   - name: Interview WTNH TV
     id: e156f04d-834c-4906-9f31-bd1137a1b1ea
     type: content
+  - name: Bio
+    id: 2289e76a-a5cc-426a-b063-813cfd855bfd
+    type: content
   - name: 'Interview That''s The Spirit '
     id: 2c6804be-afce-461d-8233-3e68c20f6714
     type: content
@@ -42,9 +45,6 @@ navigation:
     type: content
   - name: 'Author Interview: Rich Okun'
     id: 466f169e-134b-4f3d-9e1e-50b8e203e9ed
-    type: content
-  - name: Bio
-    id: 2289e76a-a5cc-426a-b063-813cfd855bfd
     type: content
   - name: Ivy Moon Press
     id: d6b1ec3a-2c6b-43fc-a783-cac37f0a0702
