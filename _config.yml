@@ -64,6 +64,9 @@ navigation:
   - name: Links - Press Releases
     id: 73690951-a101-46b9-91c3-11ee92f0c5bb
     type: content
+  - name: Bio
+    id: 2289e76a-a5cc-426a-b063-813cfd855bfd
+    type: content
 favicon: null
 title: Interviews and Book Trailers
 description: and thoughts
