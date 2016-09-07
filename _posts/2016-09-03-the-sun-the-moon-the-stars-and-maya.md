@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-03T12:35:54.302Z'
+datePublished: '2016-09-03T12:36:50.166Z'
 inFeed: false
 hasPage: true
 author:
@@ -7,7 +7,7 @@ author:
     url: 'https://www.youtube.com/user/richokun'
     avatar: {}
 via: {}
-dateModified: '2016-09-03T12:35:15.508Z'
+dateModified: '2016-09-03T12:36:49.785Z'
 title: 'The Sun, The Moon, The Stars, and Maya'
 publisher: {}
 description: >-
@@ -15,8 +15,8 @@ description: >-
   special book unique in format, richly textured with full color original
   illustrations using famous quotes as inspirations for short lyrical
   interpretations by Maya the magical puppy who speaks in rhyme all the time.
-starred: false
 sourcePath: _posts/2016-09-03-the-sun-the-moon-the-stars-and-maya.md
+starred: false
 url: the-sun-the-moon-the-stars-and-maya/index.html
 _type: MediaObject
 
