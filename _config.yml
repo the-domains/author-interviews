@@ -28,6 +28,9 @@ navigation:
   - name: Interview about Publishing with Balboa Press
     id: 72b34880-602c-49fb-96ae-2ced8e703a3b
     type: content
+  - name: Book Trailer videos
+    id: 72c9ab5a-5f19-41fa-8a15-40263a8da2b1
+    type: content
   - name: Interview WTNH TV
     id: e156f04d-834c-4906-9f31-bd1137a1b1ea
     type: content
@@ -36,9 +39,6 @@ navigation:
     type: content
   - name: Interview Little Conversations
     id: 733ce051-7271-4b61-8468-9fca2bd50a69
-    type: content
-  - name: Book Trailer videos
-    id: 72c9ab5a-5f19-41fa-8a15-40263a8da2b1
     type: content
   - name: 'Author Interview: Rich Okun'
     id: 466f169e-134b-4f3d-9e1e-50b8e203e9ed
