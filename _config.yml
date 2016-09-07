@@ -25,6 +25,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Bio
+    id: 2289e76a-a5cc-426a-b063-813cfd855bfd
+    type: content
   - name: Book Trailer videos
     id: 72c9ab5a-5f19-41fa-8a15-40263a8da2b1
     type: content
@@ -33,9 +36,6 @@ navigation:
     type: content
   - name: Interview WTNH TV
     id: e156f04d-834c-4906-9f31-bd1137a1b1ea
-    type: content
-  - name: Bio
-    id: 2289e76a-a5cc-426a-b063-813cfd855bfd
     type: content
   - name: 'Interview That''s The Spirit '
     id: 2c6804be-afce-461d-8233-3e68c20f6714
